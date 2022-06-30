@@ -1,3 +1,3 @@
-👋 Hi, I’m @ericfm20
-- 📚 University of Virginia class of 2024
-- 📖 Studying CS and math
+Hi, I’m @ericfm20
+- University of Virginia Class of 2024
+- Studying CS and math
